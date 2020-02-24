@@ -1,0 +1,5 @@
+Name  : xxx
+DOB   : xx/yy/zzzz
+Age   : yy
+City  : zzz
+Sign  : xyz
